@@ -1,1 +1,2 @@
-# School-Management-System
+# LeetCode Solutions for Data Structures and Algorithms in Java (Pattern-Based)
+
